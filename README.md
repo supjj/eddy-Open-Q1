@@ -7,7 +7,7 @@ For use with
 
 https://github.com/frap129/OpenQ1
 
-Additionaal reference
+Additional reference
 
 https://github.com/bigtreetech/Eddy
 
